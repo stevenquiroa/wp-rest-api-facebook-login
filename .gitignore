@@ -1,0 +1,7 @@
+node_modules
+bower_components
+*.log
+.idea
+env.json
+.DS_Store
+facebook.json

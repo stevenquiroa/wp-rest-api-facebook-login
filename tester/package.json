@@ -1,0 +1,21 @@
+{
+  "name": "hacienda-tester",
+  "version": "1.0.0",
+  "description": "Tester del API para backend de hacienda real",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "tester",
+    "mocha",
+    "js"
+  ],
+  "author": "Steven Quiroa <stevenkm92@gmail.com> (http://quiroa.me)",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "oauth": "^0.9.14",
+    "superagent": "^2.0.0",
+    "superagent-oauth": "^0.2.3"
+  }
+}
